@@ -13,5 +13,45 @@ At present, I go to work every day to my father’s office building and he has a
 
 ## 1.2 The Command Line
 
+What is shell? What is “bash?”
+
+Bash is a Unix shell and command language that can be accessed through a computer’s Terminal program.
+
+What was the most challenging for you in going through this material?
+
+I still would have liked to have seen more examples of Pipes and Redirection.  I think I understand the concept of piping commands, but I would like to have explored limitations or got more practice.
+
+Were you able to successfully use all of the commands?
+
+I was able to successfully use all of the commands.  The only command that I used that didn’t give me the expected output was apropos, but in the tutorial he said he almost never uses this command anyways.
+
+In your opinion, what are the most important commands and arguments to know?
+
+I think moving files, editing files, copying files and redirecting files will probably be the most important commands and arguments to know.  I do believe what the instructor said that once you are comfortable working in the UNIX environment you will be able to program faster.
+
+Can you remember what each of the following does off the top of your head?  Write what each does.
+
+pwd - print working directory
+
+ls - list directory
+
+mv - move a file or directory
+
+cd - change directory
+
+../ - move up in the tree and path
+
+touch - makes an empty file
+
+mkdir - make directory
+
+less - page through a file
+
+rmdir - remove directory
+
+rm - remove a file or empty directory
+
+help - there is no help for mac users?  it is man for mac users and help for windows users but this lets you use the manual to find how to do something
+
 
 ### 1.4 Forking and Cloning
