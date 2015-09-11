@@ -11,8 +11,7 @@ Currently, I feel like I manage my time well.  I probably put more time into ass
 At present, I go to work every day to my father’s office building and he has a spare desk at work that I can use.  I intend to treat Phase 0 like a normal 9-5 job.  Each week’s assignments and challenges will be my first priority for the day, and if times allows after their completion, I intend to study and explore additional coding related materials online.
 
 
-
-
 ## 1.2 The Command Line
+
 
 ### 1.4 Forking and Cloning
