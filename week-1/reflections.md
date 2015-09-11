@@ -55,3 +55,13 @@ help - there is no help for mac users?  it is man for mac users and help for win
 
 
 ### 1.4 Forking and Cloning
+
+If you were going to write instructions for a new person on how to create a new repo, fork a repo, and clone a repo, what would they be?  Why would you fork a repository as opposed to create a new one?
+
+To create a new repository (repo), first create an account on github.com and have a good username.  Go to the upper right and click the plus sign next to your avatar and select “New Repository”.  Choose a repo name and click “create repository”.  To fork a repo, navigate to the repository page you want to fork and click the fork button on the upper right.  You now forked the repo and have a copy on your github.com account.  To clone a repo, navigate to the repo page you want and copy the URL under the “HTTPS clone URL” heading.  Next, open your Terminal and navigate to the directory you want to clone to.  Then you can type in “git clone ” and the URL.  Forking a repository instead of creating a new one allows you to copy all the files and work on them from the last work point of the previous user.
+
+What struggles did you have setting up git and GitHub?  What did you learn in the process?
+
+I was personally conflicted about where I want to start piling up these repositories on my computer.  I already had a phase0 directory that I created to store files related to this course and then I put the phase-0 repository in it and I thought that was getting redundant and confusing, so I created instead a devbootcamp directory and will put all my future repositories in there and other non repositories somewhere else.  During this process I am learning how I want to organize my files on my computer so they are easy and efficient to access.
+
+I am attempting to do everything in command line but I find deleting things one at a time to be tedious (especially with typing errors).  There has to be a command to delete everything in a directory that I have not been taught yet.  It would make things easier but I can understand why teaching a new person a “delete all” command would be problematic.
