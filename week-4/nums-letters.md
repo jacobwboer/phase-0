@@ -12,7 +12,7 @@ What is the difference between float and integer division? How would you explain
 
 -- When you do arithmetic with integers, you'll always get integer answers.  If it does not get the exact answer, it always rounds down.  The book gave a movie theater analogy to explain this.  If two people want to go see a movie and tickets are $5 each.  They can't spend $15 to see 1.5 movies each.  Only whole division and whole multiplication makes sense.
 
-'''
+```
 puts 'Hours in a year'
 puts 365 * 24
 puts 'Minutes in a decade'
@@ -22,7 +22,8 @@ puts 60 * 60 * 24 * 365 * 31
 
 puts 'Our dear authors age'
 puts 1160000000 / 365 / 24 / 60 / 60
-'''
+
+```
 
 4.2.1 Defining Variables
 
