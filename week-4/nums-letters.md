@@ -22,6 +22,7 @@ puts 60 * 60 * 24 * 365 * 31
 
 puts 'Our dear authors age'
 puts 1160000000 / 365 / 24 / 60 / 60
+
 ```
 
 4.2.1 Defining Variables
