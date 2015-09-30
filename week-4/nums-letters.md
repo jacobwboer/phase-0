@@ -32,6 +32,8 @@ https://github.com/jacobwboer/phase-0/blob/master/week-4/defining-variables.rb
 
 4.2.2 Simple String Methods
 
+https://github.com/jacobwboer/phase-0/blob/master/week-4/simple-string.rb
+
 4.2.3 Local Variables and Basic Arithmetical Expressions
 
 
